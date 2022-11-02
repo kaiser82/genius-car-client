@@ -56,7 +56,7 @@ const SignUp = () => {
                         <div className="form-control mt-6">
                             <input type="submit" value="Sign Up" className="btn btn-primary bg-orange-600 hover:bg-orange-700" />
                             <label className="label justify-center">
-                                <Link to="/signup" className="label-text-alt link link-hover text-md font-semibold">Already have an account? <span className='text-orange-600'>Log In</span></Link>
+                                <Link to="/login" className="label-text-alt link link-hover text-md font-semibold">Already have an account? <span className='text-orange-600'>Log In</span></Link>
                             </label>
 
                         </div>
